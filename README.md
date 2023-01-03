@@ -40,5 +40,10 @@ $ rails test
 $ rails server
 ```
 
+```
+https://sample-app-ov5p.onrender.com
+```
+
+
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
